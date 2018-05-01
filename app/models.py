@@ -23,4 +23,7 @@ class Entry(models.Model):
 
 class Category(models.CharField):
     name=models.CharField(max_lenth=100)
+
+# User
+
     
