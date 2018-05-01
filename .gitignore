@@ -1,11 +1,15 @@
+#virtualenv 滕骏的提交
+venv/
+.idea/
+.vscode/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
 
-#virtualenv
-venv/
 
 # C extensions
 *.so
