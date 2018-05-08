@@ -5,8 +5,7 @@ from .models import Post, Category, Entry
 
 
 class PostAdmin(admin.ModelAdmin):
-    fields = ['name','created','published']
-
+    pass
 
 admin.site.register(Post, PostAdmin)
 
