@@ -39,3 +39,6 @@ class Entry(models.Model):
 
 
 # User
+class UserExtends(models.Model):
+    class Meta:
+        abstract = True

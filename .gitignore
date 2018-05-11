@@ -1,8 +1,10 @@
-#virtualenv 滕骏的提交
+#virtualenv 滕骏
 venv/
 .idea/
 .vscode/
 
+#node ignore 滕骏
+node_modules/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
